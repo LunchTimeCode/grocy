@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.5.0](https://github.com/LunchTimeCode/grocy/compare/v0.4.3...v0.5.0) (2025-07-04)
+
+
+### Features
+
+* share tasks ([cc7907d](https://github.com/LunchTimeCode/grocy/commit/cc7907d5c5935408d8f7a8052430b890bd823881))
+
 ## [0.4.3](https://github.com/LunchTimeCode/grocy/compare/v0.4.2...v0.4.3) (2025-07-03)
 
 
